@@ -58,3 +58,7 @@ main{
 .card:hover{
     opacity: 50%;
 }
+footer{
+    background-color:#3D464E;
+    text-align: center;
+}
