@@ -8,3 +8,5 @@ social media icons courtesy of font awesome https://fontawesome.com/
 all 3 pages utilize bootstrap navbar, jumbotron, and sticky footer components
 
 bootstrap card components used as placeholder links for future projects on portfolio page
+
+HTML validation performed by https://validator.w3.org/
