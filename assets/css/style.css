@@ -1,5 +1,5 @@
 .jumbotron{
-    background-image: url("starry.webp");
+    background-image: url("../images/starry.webp");
     background-size: cover;
     background-position: center;      
     color: white;
@@ -9,11 +9,11 @@
     text-align: center;    
 }
 .portfolio{
-    background-image: url("colosseum.jpg");   
+    background-image: url("../images/colosseum.jpg");   
 }
 
 .connect{
-    background-image: url("connect.jpg");   
+    background-image: url("../images/connect.jpg");   
 }
 
 .contactlinks{
