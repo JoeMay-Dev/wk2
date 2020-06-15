@@ -1,7 +1,7 @@
 # wk2
 week 2 homework
 
-responsive portfoilo website built with bootstrap https://getbootstrap.com/
+This is a responsive portfoilo website built with bootstrap https://getbootstrap.com/
 
 social media icons courtesy of font awesome https://fontawesome.com/
 
